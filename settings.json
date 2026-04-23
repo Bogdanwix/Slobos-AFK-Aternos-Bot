@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Afk-Bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Wixi_Server.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Помогаю делать этот сервер 24/7",
+        "Спасибо автору Slobos за создании бота!",
+        "Я люблю играть в Майнкрафт!"
       ]
     },
     "chat-log": true,
